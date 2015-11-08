@@ -11,6 +11,6 @@ Project @ software guild
 
 * Unit Testing: Each layer (exclude UI) are tested. Test tool used : Nunit. 
 * N-Tier: Proper separation of responsibility. Data, Model, Business Logic, UI  
-* Dependency injection: Interface was used to switch between Mock Repo (static memory) and Production Repo (File Read) 
+* Dependency injection: Interface was used to switch between Mock Repo (static memory) and Production Repo (File Read).  Ninject was used.
 
 
